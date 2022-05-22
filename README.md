@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @thuantran2704
+- 👀 I’m interested in Music, Languages, books, travelling, movies.
+- 🌱 I’m currently learning Javascript, Python, C++
+- 📫 How to reach me thuantran2704@gmail.com
