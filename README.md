@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @thuantran2704
 - 👀 I’m interested in Music, Languages, books, travelling, movies.
-- 🌱 I’m currently learning Javascript, Python, C++,HTML,CSS,React
+- 🌱 I’m currently learning Data Structure and taking my first steps in ML.
 - 📫 How to reach me thuantran2704@gmail.com
+- I am familiar with Python, Javascript, C++ (mainly in Leetcoding), Web Development using MERN stack.
