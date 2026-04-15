@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @thuantran2704
 - 👀 I’m interested in Music, Languages, books, travelling, movies.
-- 🌱 I’m currently interested in Full-stack Web Development, AWS, Data Analytics and Machine Learning.
+- 🌱 I’m currently interested in Full-stack Web Development, Data Analytics and Machine Learning.
 - 📫 How to reach me: tqt@usf.edu (I check this email daily) and thuantran2704@gmail.com 
-- I am familiar with Python, Javascript, C++ (mainly in Leetcoding), Web Development with MERN stack, Flask
+- I am familiar with Node.js, React.js, Python, MongoDB, PostgreSQL, Linux, Go, C/C++, Typescript
+- My leetcode profile: https://leetcode.com/u/thuantran274/
